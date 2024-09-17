@@ -3,3 +3,4 @@ venv
 experiments
 *.gitkeep
 *.keep
+*.egg-info
